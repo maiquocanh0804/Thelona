@@ -1,0 +1,16 @@
+
+
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+code {
+  font-family: 'Montserrat', sans-serif; 
+}
+
+:root{
+  --color1: #fff;
+  --color2: black
+}

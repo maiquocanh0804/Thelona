@@ -1,0 +1,155 @@
+.empty{
+    height:400px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    flex-direction:column;
+}
+.wrapper-menu-product{
+    max-width: 1340px;
+    margin: auto;
+}
+
+.wrapper-menu-product .ant-row{
+    /* justify-content: space-between; */
+}
+.wrapper-category-product{
+    max-width: 1340px;
+    margin: auto;
+    
+}
+.wrapper-category-product .ant-row{
+    /* justify-content: space-between; */
+}
+.title-card-product{
+    color:black;
+    text-transform:uppercase
+}
+.title-card-product:hover{
+    color:#5142FC
+}
+.ant-layout-content {
+   background-color: #fff;
+}
+
+.contener-product .ant-col {
+    padding:0 16px ;
+    margin-bottom: 12px;
+
+}
+
+.ant-card-body {
+    padding: 10px 10px 10px 10px
+}
+.img-product .ant-image-img{
+    
+}
+.List-imgpreview ul {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.full-imgproduct {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+}
+
+.full-imgproduct .ant-col:nth-child(1){
+    max-width: 66.66666667%;
+}
+
+.img-listproduct {
+    display: flex;
+    padding-right: 20px;
+    align-items: center;
+    flex-direction: column;
+}
+
+.navigation-product{
+    padding: 50px 0;
+
+}
+.productRelate{
+    display: flex;
+    flex-direction: column;
+}
+/* .List-imgpreview .ant-image-img {
+    width: 200%;
+}    */
+@media only screen and (max-width:1370px) {
+    .wrapper-menu-product{
+        padding:50px 30px;
+    }
+    .wrapper-category-product{
+        padding: 50px 30px;
+    }
+    .wrapper-category-product {
+        max-width: 1212px;
+    }
+}
+
+
+  @media only screen and (max-width:1200px){
+    .top{
+        display: none;
+    }
+    .reason-choose{
+        padding:20px 0px
+    }
+    .itemProduct{
+        width:269px;
+        margin: auto;
+    }
+    .wrapper-menu-product .ant-row{
+        justify-content: space-between;
+    }
+    .content-product {
+        width: 100%;
+        padding: 0 84px;
+    }
+    .navigation-product{
+        padding: 50px 0;
+        display: flex;
+        justify-content: center;
+
+    }
+    
+}
+@media only screen and (max-width:660px){
+    .imgCarousel{
+        width: 100%;
+        height:auto; 
+        resize: contain;
+    }
+    .topbar{
+        height:35px;
+    }
+    .topbar>span{
+        font-size: 12px;
+        margin-left: -10%;
+    }
+    .itemProduct{
+        width:130px;
+        margin: auto;
+
+    }
+    .wrapper-menu-product .ant-row{
+        justify-content: space-around;
+    }
+  
+    .content-product {
+        width: 100%;
+        padding: 0 24px;
+    }
+    .img-listproduct{
+        padding: 0;
+    }
+    .navigation-product{
+        padding: 50px 0;
+        display: flex;
+        justify-content: center;
+
+    }
+}

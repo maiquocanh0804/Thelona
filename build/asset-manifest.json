@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.44438447.chunk.css",
+    "main.js": "/static/js/main.500dd4d1.chunk.js",
+    "main.js.map": "/static/js/main.500dd4d1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.daf54c83.js",
+    "runtime-main.js.map": "/static/js/runtime-main.daf54c83.js.map",
+    "static/css/2.452c19b3.chunk.css": "/static/css/2.452c19b3.chunk.css",
+    "static/js/2.08cb2059.chunk.js": "/static/js/2.08cb2059.chunk.js",
+    "static/js/2.08cb2059.chunk.js.map": "/static/js/2.08cb2059.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.452c19b3.chunk.css.map": "/static/css/2.452c19b3.chunk.css.map",
+    "static/css/main.44438447.chunk.css.map": "/static/css/main.44438447.chunk.css.map",
+    "static/js/2.08cb2059.chunk.js.LICENSE.txt": "/static/js/2.08cb2059.chunk.js.LICENSE.txt",
+    "static/media/Fashion-removebg-preview.a13a95a2.png": "/static/media/Fashion-removebg-preview.a13a95a2.png",
+    "static/media/PayPal.90021d17.svg": "/static/media/PayPal.90021d17.svg",
+    "static/media/afternoon.7620f0ed.png": "/static/media/afternoon.7620f0ed.png",
+    "static/media/banking.5663d56a.png": "/static/media/banking.5663d56a.png",
+    "static/media/cod.f1ec9fc2.svg": "/static/media/cod.f1ec9fc2.svg",
+    "static/media/lo-go.f553156c.png": "/static/media/lo-go.f553156c.png",
+    "static/media/momo.7f3f4f55.svg": "/static/media/momo.7f3f4f55.svg",
+    "static/media/morning.3bbc4d91.png": "/static/media/morning.3bbc4d91.png",
+    "static/media/other.61a94949.svg": "/static/media/other.61a94949.svg",
+    "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf",
+    "static/media/slider1.f94d9110.jpg": "/static/media/slider1.f94d9110.jpg",
+    "static/media/slider2.2ef10a39.jpg": "/static/media/slider2.2ef10a39.jpg",
+    "static/media/slider3.0687eaa5.jpg": "/static/media/slider3.0687eaa5.jpg",
+    "static/media/vnpay_new.3601e9b6.svg": "/static/media/vnpay_new.3601e9b6.svg",
+    "static/media/zalopay.5cef1f6c.svg": "/static/media/zalopay.5cef1f6c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.daf54c83.js",
+    "static/css/2.452c19b3.chunk.css",
+    "static/js/2.08cb2059.chunk.js",
+    "static/css/main.44438447.chunk.css",
+    "static/js/main.500dd4d1.chunk.js"
+  ]
+}
